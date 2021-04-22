@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "D:\\WISStudiobrowser\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\WISStudiobrowser\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WISStudiobrowser\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "D:\\WISStudiobrowser\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\WISStudiobrowser\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\WISStudiobrowser\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\WISStudiobrowser\\app\\build\\intermediates\\res\\merged\\release\\drawable_zhihu.jpg.flat",
+        "source": "D:\\WISStudiobrowser\\app\\src\\main\\res\\drawable\\zhihu.jpg"
+    },
+    {
+        "merged": "D:\\WISStudiobrowser\\app\\build\\intermediates\\res\\merged\\release\\layout_recyclerview_item.xml.flat",
+        "source": "D:\\WISStudiobrowser\\app\\src\\main\\res\\layout\\recyclerview_item.xml"
+    },
+    {
+        "merged": "D:\\WISStudiobrowser\\app\\build\\intermediates\\res\\merged\\release\\drawable_e.jpg.flat",
+        "source": "D:\\WISStudiobrowser\\app\\src\\main\\res\\drawable\\e.jpg"
+    },
+    {
+        "merged": "D:\\WISStudiobrowser\\app\\build\\intermediates\\res\\merged\\release\\drawable_b.jpg.flat",
+        "source": "D:\\WISStudiobrowser\\app\\src\\main\\res\\drawable\\b.jpg"
+    },
+    {
+        "merged": "D:\\WISStudiobrowser\\app\\build\\intermediates\\res\\merged\\release\\drawable_xin.jpg.flat",
+        "source": "D:\\WISStudiobrowser\\app\\src\\main\\res\\drawable\\xin.jpg"
+    },
+    {
+        "merged": "D:\\WISStudiobrowser\\app\\build\\intermediates\\res\\merged\\release\\drawable_taobao.jpg.flat",
+        "source": "D:\\WISStudiobrowser\\app\\src\\main\\res\\drawable\\taobao.jpg"
+    },
+    {
+        "merged": "D:\\WISStudiobrowser\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\WISStudiobrowser\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\WISStudiobrowser\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\WISStudiobrowser\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\WISStudiobrowser\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\WISStudiobrowser\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\WISStudiobrowser\\app\\build\\intermediates\\res\\merged\\release\\layout_back.xml.flat",
+        "source": "D:\\WISStudiobrowser\\app\\src\\main\\res\\layout\\back.xml"
+    },
+    {
+        "merged": "D:\\WISStudiobrowser\\app\\build\\intermediates\\res\\merged\\release\\drawable_f.jpg.flat",
+        "source": "D:\\WISStudiobrowser\\app\\src\\main\\res\\drawable\\f.jpg"
+    },
+    {
+        "merged": "D:\\WISStudiobrowser\\app\\build\\intermediates\\res\\merged\\release\\drawable_jingdong.jpg.flat",
+        "source": "D:\\WISStudiobrowser\\app\\src\\main\\res\\drawable\\jingdong.jpg"
+    },
+    {
+        "merged": "D:\\WISStudiobrowser\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\WISStudiobrowser\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WISStudiobrowser\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\WISStudiobrowser\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\WISStudiobrowser\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\WISStudiobrowser\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WISStudiobrowser\\app\\build\\intermediates\\res\\merged\\release\\drawable_d.jpg.flat",
+        "source": "D:\\WISStudiobrowser\\app\\src\\main\\res\\drawable\\d.jpg"
+    },
+    {
+        "merged": "D:\\WISStudiobrowser\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\WISStudiobrowser\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WISStudiobrowser\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\WISStudiobrowser\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\WISStudiobrowser\\app\\build\\intermediates\\res\\merged\\release\\drawable_xiecheng.jpg.flat",
+        "source": "D:\\WISStudiobrowser\\app\\src\\main\\res\\drawable\\xiecheng.jpg"
+    },
+    {
+        "merged": "D:\\WISStudiobrowser\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\WISStudiobrowser\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\WISStudiobrowser\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\WISStudiobrowser\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WISStudiobrowser\\app\\build\\intermediates\\res\\merged\\release\\drawable_a.jpg.flat",
+        "source": "D:\\WISStudiobrowser\\app\\src\\main\\res\\drawable\\a.jpg"
+    },
+    {
+        "merged": "D:\\WISStudiobrowser\\app\\build\\intermediates\\res\\merged\\release\\drawable_c.jpg.flat",
+        "source": "D:\\WISStudiobrowser\\app\\src\\main\\res\\drawable\\c.jpg"
+    },
+    {
+        "merged": "D:\\WISStudiobrowser\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\WISStudiobrowser\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\WISStudiobrowser\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_tubiao.jpeg.flat",
+        "source": "D:\\WISStudiobrowser\\app\\src\\main\\res\\mipmap-xhdpi\\tubiao.jpeg"
+    },
+    {
+        "merged": "D:\\WISStudiobrowser\\app\\build\\intermediates\\res\\merged\\release\\drawable_baidu.jpg.flat",
+        "source": "D:\\WISStudiobrowser\\app\\src\\main\\res\\drawable\\baidu.jpg"
+    },
+    {
+        "merged": "D:\\WISStudiobrowser\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\WISStudiobrowser\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\WISStudiobrowser\\app\\build\\intermediates\\res\\merged\\release\\layout_type_item.xml.flat",
+        "source": "D:\\WISStudiobrowser\\app\\src\\main\\res\\layout\\type_item.xml"
+    }
+]

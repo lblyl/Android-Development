@@ -1,0 +1,34 @@
+com/example/wisstudiobrowser/ItemTouchHelperCallbackAdapter.java
+ com.example.wisstudiobrowser.ItemTouchHelperCallbackAdapter
+com/example/wisstudiobrowser/MainActivity2.java
+ com.example.wisstudiobrowser.MainActivity2
+com/example/wisstudiobrowser/BuildConfig.java
+ com.example.wisstudiobrowser.BuildConfig
+com/example/wisstudiobrowser/NewsItemTouchCallback.java
+ com.example.wisstudiobrowser.NewsItemTouchCallback
+com/example/wisstudiobrowser/Type.java
+ com.example.wisstudiobrowser.Type
+com/example/wisstudiobrowser/NewsAdapter.java
+ com.example.wisstudiobrowser.NewsAdapter
+ com.example.wisstudiobrowser.NewsAdapter$1
+ com.example.wisstudiobrowser.NewsAdapter$ViewHolder
+com/example/wisstudiobrowser/News.java
+ com.example.wisstudiobrowser.News
+com/example/wisstudiobrowser/TypeAdapter.java
+ com.example.wisstudiobrowser.TypeAdapter
+ com.example.wisstudiobrowser.TypeAdapter$1
+ com.example.wisstudiobrowser.TypeAdapter$ViewHolder
+com/example/wisstudiobrowser/MainActivity.java
+ com.example.wisstudiobrowser.MainActivity
+ com.example.wisstudiobrowser.MainActivity$1
+ com.example.wisstudiobrowser.MainActivity$2
+ com.example.wisstudiobrowser.MainActivity$3
+ com.example.wisstudiobrowser.MainActivity$4
+ com.example.wisstudiobrowser.MainActivity$5
+ com.example.wisstudiobrowser.MainActivity$6
+ com.example.wisstudiobrowser.MainActivity$7
+ com.example.wisstudiobrowser.MainActivity$8
+ com.example.wisstudiobrowser.MainActivity$8$1
+com/example/wisstudiobrowser/BackLayout.java
+ com.example.wisstudiobrowser.BackLayout
+ com.example.wisstudiobrowser.BackLayout$1
