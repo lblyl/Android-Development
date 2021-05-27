@@ -1,0 +1,22 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <TextView 
+        android:id="@+id/item_longclicked_modifyFavorites"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.5"
+        android:textColor="@android:color/white"
+        android:textSize="16sp"
+        android:text="修改书签" />
+    <TextView 
+        android:id="@+id/item_longclicked_deleteFavorites"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.5"
+        android:textColor="@android:color/white"
+        android:textSize="16sp"
+        android:text="删除书签" />
+</LinearLayout>

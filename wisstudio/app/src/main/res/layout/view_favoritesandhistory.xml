@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/favoritesAndHisotry"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+    <LinearLayout
+        android:id="@+id/favoritesAndHisotry_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_blue_light"
+        android:orientation="horizontal" >
+        <Button
+            android:id="@+id/favorites"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"
+            android:text="书签"
+            android:textColor="@android:color/white"
+            android:background="@android:color/holo_blue_light"
+            android:textSize="20sp" />
+        <Button
+            android:id="@+id/history"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"
+            android:text="历史"
+            android:textColor="@android:color/white"
+            android:background="@android:color/holo_blue_light"
+            android:textSize="20sp" />
+    </LinearLayout>
+    <FrameLayout
+        android:id="@+id/favoritesAndHisotry_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/favoritesAndHisotry_button" >
+        <ListView
+            android:id="@+id/favoritesAndHisotry_content_favorite"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="#E2E2E2" 
+            android:dividerHeight="1dp">
+        </ListView>
+        <ListView
+            android:id="@+id/favoritesAndHisotry_content_history"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="#E2E2E2"
+            android:dividerHeight="1dp"
+            android:visibility="gone" >
+        </ListView>
+    </FrameLayout>
+</RelativeLayout>
